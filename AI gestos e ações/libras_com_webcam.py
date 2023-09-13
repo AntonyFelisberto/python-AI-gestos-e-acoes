@@ -1,5 +1,8 @@
 from IPython.display import HTML, Audio
-import extrator_POSICAO as posicao, extrator_ALTURA as altura, extrator_PROXIMIDADE as proximidade, alfabeto
+import arquivos.modulos.extrator_POSICAO  as posicao
+import arquivos.modulos.extrator_ALTURA as altura
+import arquivos.modulos.extrator_PROXIMIDADE as proximidade
+import arquivos.modulos.alfabeto as alfabeto
 from base64 import b64decode
 import numpy as np
 import io
