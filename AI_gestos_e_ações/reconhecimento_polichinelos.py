@@ -21,8 +21,8 @@ zip_object.extractall("./")
 zip_object.close()
 """
 
-arquivo_proto = "/content/pose/body/mpi/pose_deploy_linevec_faster_4_stages.prototxt"
-arquivo_pesos = "/content/pose/body/mpi/pose_iter_160000.caffemodel"
+arquivo_proto = "arquivos\\pose\\body\\body\\mpi\\pose_deploy_linevec_faster_4_stages.prototxt"
+arquivo_pesos = "arquivos\\pose\\body\\body\\mpi\\pose_iter_160000.caffemodel"
 
 numero_pontos = 15
 pares_pontos = [[0, 1], [1, 2], [2, 3], [3, 4], [1, 5], [5, 6], [6, 7], [1, 14],

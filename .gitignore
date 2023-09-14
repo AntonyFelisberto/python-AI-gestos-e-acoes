@@ -65,3 +65,5 @@ AI gestos e ações/arquivos/pose/body/mpi/pose_iter_160000.caffemodel
 AI gestos e ações/arquivos/pose/hand/.gitattributes
 AI gestos e ações/arquivos/pose/hand/pose_deploy.prototxt
 AI gestos e ações/arquivos/pose/hand/pose_iter_102000.caffemodel
+AI_gestos_e_ações/arquivos/pose/hand/pose_iter_102000.caffemodel
+AI_gestos_e_ações/arquivos/pose/body/mpi/pose_iter_160000.caffemodel

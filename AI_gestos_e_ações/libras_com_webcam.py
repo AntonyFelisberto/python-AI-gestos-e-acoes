@@ -48,8 +48,8 @@ cap = capture_and_return_photo()
 sys.path.append('/content/drive/My Drive/Colab Notebooks/Modulos/')
 print(sys.path)
 
-arquivoProto = "/content/drive/My Drive/Colab Notebooks/pose/hand/pose_deploy.prototxt"
-modeloCaffe = "/content/drive/My Drive/Colab Notebooks/pose/hand/pose_iter_102000.caffemodel"
+arquivoProto = "arquivos\\pose\\hand\\pose_deploy.prototxt"
+modeloCaffe = "arquivos\\pose\\hand\\pose_iter_102000.caffemodel"
 nPontos = 22
 PARES_POSE = [[0, 1], [1, 2], [2, 3], [3, 4], [0, 5], [5, 6], [6, 7], [7, 8], [0, 9], [9, 10], [10, 11], [11, 12],
               [0, 13], [13, 14], [14, 15], [15, 16], [0, 17], [17, 18], [18, 19], [19, 20]]

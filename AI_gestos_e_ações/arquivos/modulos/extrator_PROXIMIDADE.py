@@ -1,4 +1,4 @@
-import extrator_POSICAO as posicao
+import arquivos.modulos.extrator_POSICAO as posicao
 
 
 # esta função faz a verificação da proximidade entre dedos
